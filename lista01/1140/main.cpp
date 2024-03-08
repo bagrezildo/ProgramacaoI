@@ -15,7 +15,6 @@ int main(){
         
         character = tolower(strBuf.front());
         check = true;
-        //cout << character << ' ' << c2 << '\n';
 
         size = strBuf.size();
 

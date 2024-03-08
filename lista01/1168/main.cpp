@@ -53,7 +53,7 @@ int main(){
             }
         }
         
-        cout << leds << " leds \n";
+        cout << leds << " leds\n";
 
     }
     
