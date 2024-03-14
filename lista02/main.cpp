@@ -2,8 +2,6 @@
 #include <iostream>
 #include <iterator>
 
-#include "filter.h"
-
 using namespace std;
 
 bool pred(int value){
