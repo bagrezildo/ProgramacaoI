@@ -36,7 +36,7 @@ int main(){
             
         }
 
-        if (!cin.eof())
+        if (cin.peek() != EOF)
         {
             cout << '\n';    
         }  
